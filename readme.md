@@ -1,2 +1,1 @@
-# GIT COURSE
-This is a Complete Git Course
+# It's just a practice file to learn how to upload on git 
